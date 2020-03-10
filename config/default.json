@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost/dev-social",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
